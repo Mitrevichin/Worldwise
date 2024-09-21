@@ -35,6 +35,42 @@
         "lat": "42.97381195481384",
         "lng": "25.026855468750004"
       }
+    },
+    {
+      "id": "4c6d",
+      "cityName": "Almoguera",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-09-21T07:25:36.955Z",
+      "notes": "gggff",
+      "position": {
+        "lat": "40.264218633594815",
+        "lng": "-2.9223632812500004"
+      }
+    },
+    {
+      "id": "db0a",
+      "cityName": "Proenca-a-Nova",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2024-09-21T07:25:50.404Z",
+      "notes": "dadad",
+      "position": {
+        "lat": "39.626085951189374",
+        "lng": "-7.800292968750001"
+      }
+    },
+    {
+      "id": "d874",
+      "cityName": "Aliaguilla",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-09-21T07:30:24.909Z",
+      "notes": "dada",
+      "position": {
+        "lat": "39.7240885773337",
+        "lng": "-1.3623046875000002"
+      }
     }
   ]
 }
